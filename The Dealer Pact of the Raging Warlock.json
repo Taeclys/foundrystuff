@@ -12,7 +12,7 @@
 				"convertedBy": [
 					"Taeclys"
 				],
-				"version": "1.0.2"
+				"version": "1.0.3"
 			}
 		],
 		"dateAdded": 1701441895,
@@ -81,8 +81,12 @@
 				"The Dealer is a mysterious entity that might appears in a clutch to assist someone stuck in a dire situation in exchange for a future favor. The entity often leaves the terms of how to repay the debt quite vague, so that the possibility of a well written deal of a stable cooperation is much more desireable than a one time shady favor, thus entering into a proper Pact.",
 				"This entity pride themselves in creating bespoke deals that will suit the condition, attitude, and inclination of the subject that enters the deal, and will grant them powers that assist their proclivity.",
 				"What they ask in exchange over time might be confusing, since the true intentions of this creature are often unintelligible and, quite frankly, they always feel shady and sassy as hell.",
-				"Deal of the Raging Warlock",
+				"\n",
+				"{@b Deal of the Raging Warlock}",
 				"This Deal is offered exclusively to someone that already has at least one level of Barbarian, since most of the features hinge on the use of Rage.",
+				"\n",
+				"{@i Optional Eldritch Invocation: Eldritch Anger}",
+				"You now recover all your Rage uses during a short rest rather than a long rest.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Expanded Spell List|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|1"
