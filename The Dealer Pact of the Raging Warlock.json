@@ -22,10 +22,17 @@
 	"subclass": [
 		{
 			"name": "The Dealer's Pact of the Raging Warlock",
+			"page": 1,
 			"source": "thedealerpactofotheragingwarlock",
+			"shortName": "Raging Warlock",
 			"className": "Warlock",
 			"classSource": "PHB",
-			"shortName": "Raging Warlock",
+			"subclassFeatures": [
+				"The Dealer's Pact of the Raging Warlock|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|1",
+				"Practiced Formulas|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|6",
+				"Delay the Inevitable|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|10",
+				"Hex of Retribution|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|14"
+			],
 			"subclassSpells": [
 				"compel duel",
 				"thunderwave",
@@ -63,12 +70,6 @@
 						]
 					}
 				}
-			],
-			"subclassFeatures": [
-				"The Dealer's Pact of the Raging Warlock|Warlock||The Dealer's Pact of the Raging Warlock|thedealerpactofotheragingwarlock|1",
-				"Practiced Formulas|Warlock||The Dealer's Pact of the Raging Warlock|thedealerpactofotheragingwarlock|6",
-				"Delay the Inevitable|Warlock||The Dealer's Pact of the Raging Warlock|thedealerpactofotheragingwarlock|10",
-				"Hex of Retribution|Warlock||The Dealer's Pact of the Raging Warlock|thedealerpactofotheragingwarlock|14"
 			]
 		}
 	],
@@ -78,23 +79,23 @@
 			"source": "thedealerpactofotheragingwarlock",
 			"className": "Warlock",
 			"classSource": "PHB",
+			"subclassShortName": "Raging Warlock",
 			"subclassSource": "thedealerpactofotheragingwarlock",
-			"subclassShortName": "The Dealer's Pact of the Raging Warlock",
 			"page": 1,
 			"level": 1,
 			"entries": [
 				"The Dealer is a mysterious entity that might appears in a clutch to assist someone stuck in a dire situation in exchange for a future favor. The entity often leaves the terms of how to repay the debt quite vague, so that the possibility of a well written deal of a stable cooperation is much more desireable than a one time shady favor, thus entering into a proper Pact.\nThis entity pride themselves in creating bespoke deals that will suit the condition, attitude, and inclination of the subject that enters the deal, and will grant them powers that assist their proclivity.\nWhat they ask in exchange over time might be confusing, since the true intentions of this creature are often unintelligible and, quite frankly, they always feel shady and sassy as hell.\n\nDeal of the Raging Warlock - This Deal is offered exclusively to someone that already has at least one level of Barbarian, since most of the features hinge on the use of Rage.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Expanded Spell List|Warlock||The Dealer's Pact of the Raging Warlock|thedealerpactofotheragingwarlock|1|thedealerpactofotheragingwarlock"
+					"subclassFeature": "Expanded Spell List|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|1|thedealerpactofotheragingwarlock"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bloodied Weaving|Warlock||The Dealer's Pact of the Raging Warlock|thedealerpactofotheragingwarlock|1|thedealerpactofotheragingwarlock"
+					"subclassFeature": "Bloodied Weaving|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|1|thedealerpactofotheragingwarlock"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Rage Casting|Warlock||The Dealer's Pact of the Raging Warlock|thedealerpactofotheragingwarlock|1|thedealerpactofotheragingwarlock"
+					"subclassFeature": "Rage Casting|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|1|thedealerpactofotheragingwarlock"
 				}
 			]
 		},
@@ -103,8 +104,8 @@
 			"source": "thedealerpactofotheragingwarlock",
 			"className": "Warlock",
 			"classSource": "PHB",
+			"subclassShortName": "Raging Warlock",
 			"subclassSource": "thedealerpactofotheragingwarlock",
-			"subclassShortName": "The Dealer's Pact of the Raging Warlock",
 			"page": 1,
 			"level": 1,
 			"header": 1,
@@ -150,8 +151,8 @@
 			"source": "thedealerpactofotheragingwarlock",
 			"className": "Warlock",
 			"classSource": "PHB",
+			"subclassShortName": "Raging Warlock",
 			"subclassSource": "thedealerpactofotheragingwarlock",
-			"subclassShortName": "The Big Tiddy Goth Girlfriend",
 			"page": 1,
 			"level": 1,
 			"header": 1,
@@ -164,8 +165,8 @@
 			"source": "thedealerpactofotheragingwarlock",
 			"className": "Warlock",
 			"classSource": "PHB",
+			"subclassShortName": "Raging Warlock",
 			"subclassSource": "thedealerpactofotheragingwarlock",
-			"subclassShortName": "The Dealer's Pact of the Raging Warlock",
 			"page": 1,
 			"level": 1,
 			"header": 1,
@@ -178,8 +179,8 @@
 			"source": "thedealerpactofotheragingwarlock",
 			"className": "Warlock",
 			"classSource": "PHB",
+			"subclassShortName": "Raging Warlock",
 			"subclassSource": "thedealerpactofotheragingwarlock",
-			"subclassShortName": "The Dealer's Pact of the Raging Warlock",
 			"page": 1,
 			"level": 6,
 			"header": 2,
@@ -192,8 +193,8 @@
 			"source": "thedealerpactofotheragingwarlock",
 			"className": "Warlock",
 			"classSource": "PHB",
+			"subclassShortName": "Raging Warlock",
 			"subclassSource": "thedealerpactofotheragingwarlock",
-			"subclassShortName": "The Dealer's Pact of the Raging Warlock",
 			"page": 1,
 			"level": 10,
 			"header": 2,
@@ -206,8 +207,8 @@
 			"source": "thedealerpactofotheragingwarlock",
 			"className": "Warlock",
 			"classSource": "PHB",
+			"subclassShortName": "Raging Warlock",
 			"subclassSource": "thedealerpactofotheragingwarlock",
-			"subclassShortName": "The Dealer's Pact of the Raging Warlock",
 			"page": 1,
 			"level": 14,
 			"header": 2,
