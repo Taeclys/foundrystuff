@@ -45,6 +45,28 @@
 			]
 		}
 	],
+	"optionalfeature": [
+		{
+			"name": "Eldritch Anger",
+			"source": "thedealerpactofotheragingwarlock",
+			"featureType": [
+				"EI"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 2,
+						"class": {
+							"name": "Warlock"
+						}
+					},
+				}
+			],
+			"entries": [
+				"You now recover all your Rage uses during a short rest rather than a long rest."
+			]
+		}
+	],
 	"subclassFeature": [
 		{
 			"name": "Pact of the Raging Warlock",
