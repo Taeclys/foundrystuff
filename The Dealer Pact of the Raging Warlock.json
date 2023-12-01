@@ -28,7 +28,7 @@
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassFeatures": [
-				"The Dealer's Pact of the Raging Warlock|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|1",
+				"Pact of the Raging Warlock|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|1",
 				"Practiced Formulas|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|6",
 				"Delay the Inevitable|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|10",
 				"Hex of Retribution|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|14"
@@ -75,7 +75,7 @@
 	],
 	"subclassFeature": [
 		{
-			"name": "The Dealer's Pact of the Raging Warlock",
+			"name": "Pact of the Raging Warlock",
 			"source": "thedealerpactofotheragingwarlock",
 			"className": "Warlock",
 			"classSource": "PHB",
