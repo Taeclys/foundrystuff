@@ -12,7 +12,7 @@
 				"convertedBy": [
 					"Taeclys"
 				],
-				"version": "1.0.1"
+				"version": "1.0"
 			}
 		],
 		"dateAdded": 1701441895,
@@ -56,7 +56,12 @@
 			"page": 1,
 			"level": 1,
 			"entries": [
-				"The Dealer is a mysterious entity that might appears in a clutch to assist someone stuck in a dire situation in exchange for a future favor. The entity often leaves the terms of how to repay the debt quite vague, so that the possibility of a well written deal of a stable cooperation is much more desireable than a one time shady favor, thus entering into a proper Pact.\nThis entity pride themselves in creating bespoke deals that will suit the condition, attitude, and inclination of the subject that enters the deal, and will grant them powers that assist their proclivity.\nWhat they ask in exchange over time might be confusing, since the true intentions of this creature are often unintelligible and, quite frankly, they always feel shady and sassy as hell.\nDeal of the Raging Warlock - This Deal is offered exclusively to someone that already has at least one level of Barbarian, since most of the features hinge on the use of Rage.",
+				"The Dealer is a mysterious entity that might appears in a clutch to assist someone stuck in a dire situation in exchange for a future favor. The entity often leaves the terms of how to repay the debt quite vague, so that the possibility of a well written deal of a stable cooperation is much more desireable than a one time shady favor, thus entering into a proper Pact.",
+				"This entity pride themselves in creating bespoke deals that will suit the condition, attitude, and inclination of the subject that enters the deal, and will grant them powers that assist their proclivity.",
+				"What they ask in exchange over time might be confusing, since the true intentions of this creature are often unintelligible and, quite frankly, they always feel shady and sassy as hell."
+				"",
+				"Deal of the Raging Warlock",
+				"This Deal is offered exclusively to someone that already has at least one level of Barbarian, since most of the features hinge on the use of Rage.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Expanded Spell List|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|1"
@@ -129,7 +134,10 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"Starting at 1st level, through the teachings of your patron you learned how to cast spells while raging. By tapping into your life essence you may keep your mind focused and perform magic.\n\nYou receive the following benefits:\n- You can now cast pact magic while raging, however you are going to receive 2 x the level of the spell slot that you're using to cast of necrotic damage, which can't be reduced in any way.\n- You may maintain concentration on a spell by taking the level of the spell slot used of the necrotic damage, which can't be reduced in any way, each round during your turn."
+				"Starting at 1st level, through the teachings of your patron you learned how to cast spells while raging. By tapping into your life essence you may keep your mind focused and perform magic.",
+				"You receive the following benefits:",
+				"- You can now cast pact magic while raging, however you are going to receive 2 x the level of the spell slot that you're using to cast of necrotic damage, which can't be reduced in any way.",
+				"- You may maintain concentration on a spell by taking the level of the spell slot used of the necrotic damage, which can't be reduced in any way, each round during your turn."
 			]
 		},
 		{
@@ -143,7 +151,8 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"At 1st level, the line between spiritual and physical energy is blending together through your blood, allowing you to use your inner rage to fuel your magic.\n\nYou may expend 1 use of Rage in order to cast a spell at the highest level you normally can, without expending a spell slot. You may use this feature once per long rest. All the other limitations to casting a spell still applies, including the damage received for casting while raging."
+				"At 1st level, the line between spiritual and physical energy is blending together through your blood, allowing you to use your inner rage to fuel your magic.",
+				"You may expend 1 use of Rage in order to cast a spell at the highest level you normally can, without expending a spell slot. You may use this feature once per long rest. All the other limitations to casting a spell still applies, including the damage received for casting while raging."
 			]
 		},
 		{
@@ -157,7 +166,9 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Starting at 6th level, you learned how to focus your effort of weaving adrenaline and magic on few spells, reducing the price to cast them while raging.\n\nSelect a number of spells you know equal to half your proficiency bonus rounded up. When you cast these spells, or maintain concentration on them, while raging, you can halve the damage received by doing so to a minimum of 1.\n\nYou may change the spells influenced by this feature by spending eight hours performing a ritual and meditating."
+				"Starting at 6th level, you learned how to focus your effort of weaving adrenaline and magic on few spells, reducing the price to cast them while raging.",
+				"Select a number of spells you know equal to half your proficiency bonus rounded up. When you cast these spells, or maintain concentration on them, while raging, you can halve the damage received by doing so to a minimum of 1.",
+				"You may change the spells influenced by this feature by spending eight hours performing a ritual and meditating."
 			]
 		},
 		{
@@ -171,7 +182,10 @@
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"At 10th level, the supernatural bond with your Patron protects you when your life is at risk.\n\nAt the beginning of your turn while raging, you may select a type of damage, and gain resistance to that damage until the beginning of your next turn.\n\nIn addition, when you would be reduced to 0 points, you drop to 1 hit point instead and instantly enter the Eldritch Rage state for 1 minute. The Eldritch Rage works like your normal Rage but it can't be broken by not receiving damage or attacking. You also receive a number of temporary hit points equal to 5 times your warlock level while the Eldritch Rage state persist. At the end of the Eldritch Rage you receive 1 plus 5 times your warlock level of necrotic damage which can't be reduced in any way, and one level of Exhaustion.\n\nOnce you enter the Eldritch Rage state you can't do so again until you finish 1d4 long rests."
+				"At 10th level, the supernatural bond with your Patron protects you when your life is at risk.",
+				"At the beginning of your turn while raging, you may select a type of damage, and gain resistance to that damage until the beginning of your next turn.",
+				"In addition, when you would be reduced to 0 points, you drop to 1 hit point instead and instantly enter the Eldritch Rage state for 1 minute. The Eldritch Rage works like your normal Rage but it can't be broken by not receiving damage or attacking. You also receive a number of temporary hit points equal to 5 times your warlock level while the Eldritch Rage state persist. At the end of the Eldritch Rage you receive 1 plus 5 times your warlock level of necrotic damage which can't be reduced in any way, and one level of Exhaustion.",
+				"Once you enter the Eldritch Rage state you can't do so again until you finish 1d4 long rests."
 			]
 		},
 		{
@@ -185,7 +199,10 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Starting at 14th level, spilled blood draws out your eldritch anger, bringing painful retribution to anyone that dares damaging you or your allies.\n\nWhen an enemy damages you or one of your allies during an encounter, you may use your reaction to activate Hex of Retribution. While this feature is active, any time an enemy damages you or one of your allies that you can see within 30 feet, they are stripped of their resistance to necrotic damage for 1 minute, if they had it, receive 1d8 + your charisma modifier of necrotic damage , and are afflicted by the {@spell hex} spell as if casted by you without the need to concentrate on it.\n\nYou may have more than one {@spell hex} active at the same time this way, however once the target is reduced to 0 hit points you can't move the {@spell hex} to another target.\n\nOnce you activate Hex of Retribution, you can't use the feature again until you finish a long rest."
+				"Starting at 14th level, spilled blood draws out your eldritch anger, bringing painful retribution to anyone that dares damaging you or your allies.",
+				"When an enemy damages you or one of your allies during an encounter, you may use your reaction to activate Hex of Retribution. While this feature is active, any time an enemy damages you or one of your allies that you can see within 30 feet, they are stripped of their resistance to necrotic damage for 1 minute, if they had it, receive 1d8 + your charisma modifier of necrotic damage , and are afflicted by the {@spell hex} spell as if casted by you without the need to concentrate on it.",
+				"You may have more than one {@spell hex} active at the same time this way, however once the target is reduced to 0 hit points you can't move the {@spell hex} to another target.",
+				"Once you activate Hex of Retribution, you can't use the feature again until you finish a long rest."
 			]
 		}
 	]
