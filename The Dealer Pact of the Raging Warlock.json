@@ -2,8 +2,8 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "thedealerpactofotheragingwarlock",
-				"abbreviation": "DPRW",
+				"json": "thedealerpacts",
+				"abbreviation": "TDP",
 				"full": "Warlock Patrol: The Dealer - Pact of the Raging Warlock",
 				"url": "",
 				"authors": [
@@ -12,7 +12,8 @@
 				"convertedBy": [
 					"Taeclys"
 				],
-				"version": "1.0.3"
+				"version": "1.0.4",
+				"url": "https://homebrewery.naturalcrit.com/share/ktK-UWf14T_D"
 			}
 		],
 		"dateAdded": 1701441895,
@@ -20,11 +21,12 @@
 	},
 	"subclass": [
 		{
-			"name": "The Dealer's Pact of the Raging Warlock",
+			"name": "The Dealer - Pact of the Raging Warlock",
 			"shortName": "Raging Warlock",
-			"source": "thedealerpactofotheragingwarlock",
+			"source": "thedealerpacts",
 			"className": "Warlock",
 			"classSource": "PHB",
+			"page": 1,
 			"subclassSpells": [
 				"compelled duel",
 				"thunderwave",
@@ -38,17 +40,17 @@
 				"steel wind strike"
 			],
 			"subclassFeatures": [
-				"Pact of the Raging Warlock|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|1",
-				"Practiced Formulas|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|6",
-				"Delay the Inevitable|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|10",
-				"Hex of Retribution|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|14"
+				"Pact of the Raging Warlock|Warlock||Raging Warlock|thedealerpacts|1",
+				"Practiced Formulas|Warlock||Raging Warlock|thedealerpacts|6",
+				"Delay the Inevitable|Warlock||Raging Warlock|thedealerpacts|10",
+				"Hex of Retribution|Warlock||Raging Warlock|thedealerpacts|14"
 			]
 		}
 	],
 	"optionalfeature": [
 		{
-			"name": "Eldritch Anger",
-			"source": "thedealerpactofotheragingwarlock",
+			"name": "Short Temper",
+			"source": "thedealerpacts",
 			"featureType": [
 				"EI"
 			],
@@ -70,49 +72,51 @@
 	"subclassFeature": [
 		{
 			"name": "Pact of the Raging Warlock",
-			"source": "thedealerpactofotheragingwarlock",
+			"source": "thedealerpacts",
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassShortName": "Raging Warlock",
-			"subclassSource": "thedealerpactofotheragingwarlock",
+			"subclassSource": "thedealerpacts",
 			"page": 1,
 			"level": 1,
 			"entries": [
-				"The Dealer is a mysterious entity that might appears in a clutch to assist someone stuck in a dire situation in exchange for a future favor. The entity often leaves the terms of how to repay the debt quite vague, so that the possibility of a well written deal of a stable cooperation is much more desireable than a one time shady favor, thus entering into a proper Pact.",
+				"The Dealer is a mysterious entity that might appear to assist someone stuck in a dire situation in exchange for a future favor. They enjoy making a grand appearance the first time they are met, such as stopping time in order to have a quiet and unseen conversation with the person that attracted their attention.",
+				"The entity often leaves the terms of how to repay the debt quite vague, so that the possibility of a well written deal for a stable cooperation appears much more desireable than a one time shady favor with no questions asked, often leading into signing a proper Pact.",
 				"This entity pride themselves in creating bespoke deals that will suit the condition, attitude, and inclination of the subject that enters the deal, and will grant them powers that assist their proclivity.",
-				"What they ask in exchange over time might be confusing, since the true intentions of this creature are often unintelligible and, quite frankly, they always feel shady and sassy as hell.",
+				"What they ask in exchange over time after becoming someone’s Patron might not have straighforward consequences, since the true intentions of this creature are often unintelligible due to the shady and sassy attitude they always exhibit.",
 				"\n",
-				"{@b Deal of the Raging Warlock}",
-				"This Deal is offered exclusively to someone that already has at least one level of Barbarian, since most of the features hinge on the use of Rage.",
+				"{@b Pact of the Raging Warlock}",
+				"This deal is offered exclusively to someone that already learned how to channel their inner fury to go beyond the limits of their body.",
+				"In order to obtain this subclass is necessary to possess at least one level of the Barbarian class, since most of the mechanics revolves around the usage of Rage.",
 				"\n",
-				"{@i Optional Eldritch Invocation: Eldritch Anger}",
+				"{@b {@i Optional Eldritch Invocation: Short Temper}}",
 				"You now recover all your Rage uses during a short rest rather than a long rest.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Expanded Spell List|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|1"
+					"subclassFeature": "Expanded Spell List|Warlock||Raging Warlock|thedealerpacts|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Bloodied Weaving|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|1"
+					"subclassFeature": "Bloodied Weaving|Warlock||Raging Warlock|thedealerpacts|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Rage Casting|Warlock||Raging Warlock|thedealerpactofotheragingwarlock|1"
+					"subclassFeature": "Rage Casting|Warlock||Raging Warlock|thedealerpacts|1"
 				}
 			]
 		},
 		{
 			"name": "Expanded Spell List",
-			"source": "thedealerpactofotheragingwarlock",
+			"source": "thedealerpacts",
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassShortName": "Raging Warlock",
-			"subclassSource": "thedealerpactofotheragingwarlock",
+			"subclassSource": "thedealerpacts",
 			"page": 1,
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"The Deal of the Raging Warlock lets you choose from an extended list of spells when you learn a warlock spell. The following spells are added to the Warlock list for you.",
+				"The Pact of the Raging Warlock lets you choose from an extended list of spells when you learn a warlock spell. The following spells are added to the Warlock list for you.",
 				{
 					"type": "table",
 					"colLabels": [
@@ -150,11 +154,11 @@
 		},
 		{
 			"name": "Bloodied Weaving",
-			"source": "thedealerpactofotheragingwarlock",
+			"source": "thedealerpacts",
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassShortName": "Raging Warlock",
-			"subclassSource": "thedealerpactofotheragingwarlock",
+			"subclassSource": "thedealerpacts",
 			"page": 1,
 			"level": 1,
 			"header": 1,
@@ -167,11 +171,11 @@
 		},
 		{
 			"name": "Rage Casting",
-			"source": "thedealerpactofotheragingwarlock",
+			"source": "thedealerpacts",
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassShortName": "Raging Warlock",
-			"subclassSource": "thedealerpactofotheragingwarlock",
+			"subclassSource": "thedealerpacts",
 			"page": 1,
 			"level": 1,
 			"header": 1,
@@ -182,12 +186,12 @@
 		},
 		{
 			"name": "Practiced Formulas",
-			"source": "thedealerpactofotheragingwarlock",
+			"source": "thedealerpacts",
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassShortName": "Raging Warlock",
-			"subclassSource": "thedealerpactofotheragingwarlock",
-			"page": 1,
+			"subclassSource": "thedealerpacts",
+			"page": 2,
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -198,29 +202,29 @@
 		},
 		{
 			"name": "Delay the Inevitable",
-			"source": "thedealerpactofotheragingwarlock",
+			"source": "thedealerpacts",
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassShortName": "Raging Warlock",
-			"subclassSource": "thedealerpactofotheragingwarlock",
-			"page": 1,
+			"subclassSource": "thedealerpacts",
+			"page": 2,
 			"level": 10,
 			"header": 2,
 			"entries": [
 				"At 10th level, the supernatural bond with your Patron protects you when your life is at risk.",
 				"At the beginning of your turn while raging, you may select a type of damage, and gain resistance to that damage until the beginning of your next turn.",
-				"In addition, when you would be reduced to 0 points, you drop to 1 hit point instead and instantly enter the Eldritch Rage state for 1 minute. The Eldritch Rage works like your normal Rage but it can't be broken by not receiving damage or attacking. You also receive a number of temporary hit points equal to 5 times your warlock level while the Eldritch Rage state persist. At the end of the Eldritch Rage you receive 1 plus 5 times your warlock level of necrotic damage which can't be reduced in any way, and one level of Exhaustion.",
+				"In addition, when you would be reduced to 0 points, you drop to 1 hit point instead and instantly enter the Eldritch Rage state for 1 minute. The Eldritch Rage works like your normal Rage but it can't be broken by not receiving damage or attacking. You also receive a number of temporary hit points equal to 5 times your warlock level while the Eldritch Rage state persist. At the end of the Eldritch Rage you receive 1 + 5 times your warlock level of necrotic damage which can't be reduced in any way, and one level of Exhaustion.",
 				"Once you enter the Eldritch Rage state you can't do so again until you finish 1d4 long rests."
 			]
 		},
 		{
 			"name": "Hex of Retribution",
-			"source": "thedealerpactofotheragingwarlock",
+			"source": "thedealerpacts",
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassShortName": "Raging Warlock",
-			"subclassSource": "thedealerpactofotheragingwarlock",
-			"page": 1,
+			"subclassSource": "thedealerpacts",
+			"page": 2,
 			"level": 14,
 			"header": 2,
 			"entries": [
